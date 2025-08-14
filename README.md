@@ -1,7 +1,9 @@
 # ⚡ minimal_perfect_hash
 
-A **blazing-fast** [BDZ](https://cmph.sourceforge.net/papers/esa09.pdf) minimal perfect hash function implementation in Rust.  
-Designed for **production-scale** workloads with **millions of keys**, minimal memory footprint, and predictable `O(1)` lookups.
+![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/minimal_perfect_hash)
+
+> A **blazing-fast** [BDZ](https://cmph.sourceforge.net/papers/esa09.pdf) minimal perfect hash function implementation in Rust.  
+> Designed for **production-scale** workloads with **millions of keys**, minimal memory footprint, and predictable `O(1)` lookups.
 
 ---
 
